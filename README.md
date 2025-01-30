@@ -7,48 +7,34 @@ I'm a passionate Cybersecurity Professional with expertise in threat intelligenc
 
 I recently completed my Post-Graduate Diploma in Computer Systems Technology – Networking and have 2+ years of cybersecurity experience in threat intelligence, incident response, and vulnerability management. I'm now seeking a full-time cybersecurity role where I can apply my skills in SIEM, EDR, and digital forensics to enhance security operations and mitigate threats.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects
 
-| Skill                                         | Associated Project         |
+| Topic                                         | Associated Project & Reports         |
 |-----------------------------------------------|----------------------------|
 | Phishing Attack          | <a href="https://github.com/rachitsingla99/Phishing-Attack">Phishing Attack Analysis & Response</a>|
 | Malware Analysis          | <a href="https://github.com/rachitsingla99/Malware-Analysis/blob/main/README.md">Understanding Malware: Analysis and Containment</a>|
+| Cyber Challenges          | <a href="https://cybermagazine.com/articles/what-does-blackberrys-data-say-about-cyberattacks-in-2024">The Cyber Challenges to Come For Infrastructures</a>|
+| Identity Security          | <a href="https://www.cyberark.com/threat-landscape/?utm_source=google&utm_medium=paid_search&utm_term=nam_english_threat_landscape&utm_content=threat_landscape_report&utm_campaign=identity_security&gad_source=1&gclid=Cj0KCQiA4-y8BhC3ARIsAHmjC_Fj9_qvzelBQUy3NZWWdbTfDf6E_IkX6me7I9rLgReZRvn3bJA5rqIaAobpEALw_wcB">Identity Security Threat Landscape</a>|
 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## Tools & Skills
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+ - Security Operations & Incident Response: SIEM, EDR, Security Alerts Monitoring, Firewall Configuration and 
+Management, Network Security, Malware Detection, Intrusion Detection and Prevention Systems (IDPS). 
+- Network & Threat Intelligence: ExtraHop, Zeek 
+- Threat Hunting & Awareness: Emerging Threats, Attack Vectors, Cybersecurity Concepts, Awareness Training 
+- Endpoint Security: CrowdStrike, Carbon Black, Sentinel One, Redline 
+- Digital Forensics & Incident Response: Remnux, Flare VM, Volatility. 
+- Vulnerability Management: Nessus, Qualys 
+- Security Orchestration, Automation & Response (SOAR): ServiceNow 
+- Cloud Platforms: AWS Cloud 
+- Cloud Security & Encryption: SSL/TLS, AES, Multi-Factor Authentication, Wireless Security Protocols 
+- Operating Systems & Environments: Windows (Workstations & Servers), Kali Linux, Docker 
+- Miscellaneous Tools: MS Office, Network Miner, Wireshark, OSINT Tools, SCCM. 
+- Frameworks and Standards: MITRE ATT&CK framework, standards such as ISO 27001, NIST CSF, ISF CSF. 
+- Programming & Scripting: PowerShell, Python, Bash 
+- Soft Skills: Passionate Problem Solver, Excellent Verbal and Writing Skills, strong Communicational skills,  
+Interpersonal Leadership skills, time management, report writing, presentation skills, organizational and analytical 
+skills
