@@ -5,7 +5,7 @@ I'm a passionate Cybersecurity Professional with expertise in threat intelligenc
 
 ## Objective
 
-I recently completed my Post-Graduate Diploma in Computer Systems Technology – Networking and have 2+ years of cybersecurity experience in threat intelligence, incident response, and vulnerability management. I'm now seeking a full-time cybersecurity role where I can apply my skills in SIEM, EDR, and digital forensics to enhance security operations and mitigate threats.
+I recently completed my Post-Graduate Diploma in Computer Systems Technology – Networking and have 3+ years of cybersecurity experience in threat intelligence, incident response, and vulnerability management. I'm now seeking a full-time cybersecurity role where I can apply my skills in SIEM, EDR, and digital forensics to enhance security operations and mitigate threats.
 
 ## Projects
 
