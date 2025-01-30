@@ -12,12 +12,9 @@ I recently completed my Post-Graduate Diploma in Computer Systems Technology –
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Phishing Attack          | <a href="https://github.com/rachitsingla99/Phishing-Attack">Phishing Attack Analysis & Response</a>|
+| Malware Analysis          | <a href="https://github.com/rachitsingla99/Malware-Analysis/blob/main/README.md">Understanding Malware: Analysis and Containment</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
